@@ -13,9 +13,9 @@
 
 | Project | Description | Live Demo | Tech Stack |
 |---|---|---|---|
-| **AniVault** | An anime streaming / info site where you can explore & watch anime. | [anivault1.vercel.app](https://anivault1.vercel.app) | JavaScript, Next.js, HTML/CSS, APIs |
-| **NotesNest** | A notes management app to organize & store notes easily. | [ournotesnest.free.nf](https://ournotesnest.free.nf) | Web stack + whatever backend you used |
-| **ECET App** | Helping aspirants prepare smartly for the ECET exam. | — | Flutter / Dart + supporting tools (state management, UI) |
+| **AniVault** | An anime streaming / info site where you can explore & watch anime. | [anivault1.vercel.app](https://anivault1.vercel.app) | JavaScript, React,Tailwind css, APIs |
+| **NotesNest** | A notes management app to organize & store notes easily. | [ournotesnest.free.nf](https://ournotesnest.free.nf) | HTML,CSS, Javascript + php|
+| **ECET App** | Helping aspirants prepare smartly for the ECET exam. | — | Flutter / Dart ,firebase|
 
 ---
 
