@@ -2,7 +2,7 @@
 
 <h1>👋 Hey, I'm <span style="color:#00FFFF;">Vardhan Keerthi</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;Full+Stack+Learner;DSA+Enthusiast;Java+Programmer;Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;DSA+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 
 </div>
 
