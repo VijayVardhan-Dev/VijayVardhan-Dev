@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **3rd-year CSE Student** passionate about **Web & App Development, DSA, and Java**  
+🎓 **3rd-year CSE Student** passionate about **Web & App Development, DSA**  
 💡 I love transforming simple ideas into functional, visually appealing products  
 🌱 Currently exploring **Next.js, Flutter, and backend integration**  
 💭 My goal: *to build scalable apps with clean UI and strong logic*
