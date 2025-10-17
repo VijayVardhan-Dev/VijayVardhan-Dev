@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **3rd-year CSE Student** passionate about **Web, App & AI development**  
+🎓 **3rd-year CSE Student** passionate about **Web Apps , DSA & AI/ML development**  
 🚀 Turning creative ideas into **clean, functional, and impactful products**  
 🌱 Currently exploring **Next.js, Flutter, and AI-based tools**  
 💡 Focused on building apps that combine **performance + beautiful UI**
@@ -31,7 +31,7 @@
 
 | Languages | Frontend | Backend / DB | Tools | Learning |
 |:--:|:--:|:--:|:--:|:--:|
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | ![AI](https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?logo=openai&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | ![AI](https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?logo=openai&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![DSA](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=Yellow) |
 
 </div>
 
