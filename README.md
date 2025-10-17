@@ -1,45 +1,72 @@
+<!--
+  README for: Vardhan Keerthi (VijayVardhan-Dev)
+  DSA-focused profile — clean, confident, and professional ✨
+-->
+
 <div align="center">
 
 <h1>👋 Hey, I'm <span style="color:#00FFFF;">Vardhan Keerthi</span></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Web+%26+App+Developer;DSA+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=DSA+Enthusiast;Problem+Solver;Exploring+Web+%26+App+Development;Always+Learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧠 About Me  
 
-🎓 **3rd-year CSE Student** passionate about **Web & App Development, DSA**  
-💡 I love transforming simple ideas into functional, visually appealing products  
-🌱 Currently exploring **Next.js, Flutter, and backend integration**  
-💭 My goal: *to build scalable apps with clean UI and strong logic*
-
----
-
-## 🚀 Featured Projects  
-
-| 🔥 Project | 📜 Description | 🌐 Live Demo | 🛠 Tech Stack |
-|-------------|----------------|--------------|---------------|
-| 🎴 **AniVault** | Anime streaming & info hub using AniList & Anime.Skin APIs | [anivault1.vercel.app](https://anivault1.vercel.app) | React, Tailwind, Vite |
-| 🪶 **NotesNest** | Secure note-sharing app with OTP verification & uploads | [ournotesnest.free.nf](https://ournotesnest.free.nf) | HTML, CSS, JS, PHP |
-| 📘 **ECET App** | Helping aspirants prepare efficiently for ECET exam | — | Flutter, Firebase |
+🎓 I’m a **3rd-year CSE student** passionate about mastering **Data Structures and Algorithms** and writing **efficient, elegant code**.  
+💡 My main focus is on **problem-solving and improving logic building**, while I’m **exploring** web and app development to turn ideas into real projects.  
+☕ I code primarily in **Python** but enjoy experimenting with different technologies to grow as a full-stack developer.  
+📈 I believe in *consistency, clarity, and creativity* — in both code and learning.
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 Projects  
 
-<div align="center">
-
-| 💬 Languages | 🎨 Frontend | ⚙️ Backend / DB | 🧩 Tools | 📚 Learning |
-|:--:|:--:|:--:|:--:|:--:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) | ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?logo=leetcode&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-
-</div>
+### 🎴 **AniVault**
+An anime streaming and info hub using AniList & Anime.Skin APIs  
+🌐 [Visit Site](https://anivault1.vercel.app)  
+🛠 Built With: React, Tailwind CSS, Vite  
 
 ---
 
-## 📈 GitHub Overview  
+### 🪶 **NotesNest**
+A secure note-sharing web app with OTP-based login and uploads  
+🌐 [Visit Site](https://ournotesnest.free.nf)  
+🛠 Built With: HTML, CSS, JavaScript, PHP  
+
+---
+
+### 📘 **ECET App**
+A mobile app helping aspirants prepare and track progress for ECET exam  
+🛠 Built With: Flutter, Firebase  
+
+---
+
+## 🧰 Tech & Skills  
+
+**💬 Languages:**  
+Java • JavaScript • C • Python  
+
+**🎨 Frontend:**  
+HTML • CSS • React.js • Tailwind CSS • Next.js  
+
+**⚙️ Backend / Databases:**  
+PHP • MySQL • Firebase  
+
+**🧩 Tools & Platforms:**  
+Git • GitHub • Vercel • VS Code  
+
+**📚 Currently Exploring:**  
+Flutter • Backend Development • UI/UX Principles  
+
+**💡 Core Strength:**  
+Data Structures & Algorithms (DSA)
+
+---
+
+## 📊 GitHub Overview  
 
 <div align="center">
 
@@ -50,32 +77,23 @@
 
 ---
 
-## 💬 Connect With Me  
+## 🤝 Hire Me  
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-vardhan-53a53436b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/VijayVardhan-Dev)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vardhankeerthi.dev@gmail.com)
+🚀 I’m open to:  
+- DSA / Problem Solving Internships  
+- Web or App Development Internships (Frontend or Full Stack)  
+- Collaboration on Open Source or Learning Projects  
 
-</div>
-
----
-
-## 🎯 Goals  
-
-- 📘 Master **Full Stack & Mobile Development**
-- ⚡ Strengthen **DSA & Problem Solving**
-- 🧠 Learn advanced **Java concepts**
-- 🎨 Build projects with **beautiful UI/UX**
-- 🌍 Contribute to open-source and collaborate with others
+📧 **Email:** [vardhankeerthi.dev@gmail.com](mailto:vardhankeerthi.dev@gmail.com)  
+🌐 **LinkedIn:** [Vardhan Keerthi](https://www.linkedin.com/in/keerthi-vardhan-53a53436b)  
+🐙 **GitHub:** [VijayVardhan-Dev](https://github.com/VijayVardhan-Dev)
 
 ---
 
 <div align="center">
 
-✨ *“Code it clean. Build it bold.”* ✨  
-
+✨ *“Think logically. Code efficiently. Build passionately.”* ✨  
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=VijayVardhan-Dev&color=00FFFF&style=flat-square)
 
 </div>
