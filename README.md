@@ -2,67 +2,64 @@
 
 # Vardhan Keerthi
 
-**Developer · DSA · AI**
-
-Building real-world applications, solving problems with DSA, and working on AI-driven projects.
-
-<br/>
-
 <a href="https://github.com/VijayVardhan-Dev">
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/keerthi-vardhan-53a53436b">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:vardhankeerthi.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
+<br><br>
 </div>
 
-<br/>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="58%" valign="middle">
 
-## About
+<td width="62%" valign="middle">
 
-* Building **web, mobile, and cross-platform applications**
-* Practicing **Data Structures & Algorithms**
-* Working on **AI-powered projects**
-* Exploring **backend and system development**
+<h2>About</h2>
 
-Currently focused on becoming a stronger problem solver while building software that solves actual problems.
+<p>
+I build <strong>real-world applications</strong>, practice
+<strong>Data Structures &amp; Algorithms</strong>, and work on
+<strong>AI-powered projects</strong>.
+</p>
+
+<br>
+
+<p>
+<strong>Currently working on</strong>
+</p>
+
+<ul>
+  <li>Web, mobile, and cross-platform applications</li>
+  <li>DSA and problem solving</li>
+  <li>AI-driven projects and practical integrations</li>
+</ul>
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img
+  src="https://github.com/VijayVardhan-Dev.png"
+  width="150"
+  alt="Vardhan Keerthi"
+/>
+
+<br><br>
+
+<code>building software · solving problems · exploring AI</code>
 
 </td>
 
-<td width="42%" align="center">
-
-<img src="https://github.com/VijayVardhan-Dev.png" width="190" alt="Vardhan Keerthi"/>
-
-<br/><br/>
-
-```text
-$ whoami
-
-developer
-$ status
-
-building...
-```
-
-</td>
 </tr>
 </table>
-
----
-
-## Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### Languages
 
