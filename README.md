@@ -17,69 +17,104 @@
 <br><br>
 </div>
 
-<table align="center" width="100%">
+<table align="center" width="100%" >
 <tr>
 
 <td width="62%" valign="middle">
-
 <h2>About</h2>
 
 <p>
-I build <strong>real-world applications</strong>, practice
-<strong>Data Structures &amp; Algorithms</strong>, and work on
-<strong>AI-powered projects</strong>.
+I enjoy building things that solve an actual problem. I spend a lot of time
+coding, learning by breaking things, and figuring out how they work rather
+than just making them work once.
 </p>
-
-<br>
 
 <p>
-<strong>Currently working on</strong>
+Right now, most of my attention is split between building projects,
+improving at DSA, and experimenting with AI.
 </p>
 
-<ul>
-  <li>Web, mobile, and cross-platform applications</li>
-  <li>DSA and problem solving</li>
-  <li>AI-driven projects and practical integrations</li>
-</ul>
+
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle" >
 
 <img
-  src="https://github.com/VijayVardhan-Dev.png"
-  width="150"
+  src="https://raw.githubusercontent.com/VijayVardhan-Dev/VijayVardhan-Dev/main/assets/ascii.png"
+  width="100%"
   alt="Vardhan Keerthi"
 />
-
-<br><br>
-
-<code>building software · solving problems · exploring AI</code>
 
 </td>
 
 </tr>
 </table>
 
-### Languages
+<br>
 
-`Python` `Java` `C` `JavaScript` `Dart`
+<table align="center" width="100%">
+<tr>
+<td>
 
-### Frontend
+<h2>Skills</h2>
 
-`React` `Next.js` `Flutter` `HTML` `CSS` `Tailwind`
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<strong>Languages</strong>
+
+<br><br>
+
+<code>Python</code>
+<code>Java</code>
+<code>JavaScript</code>
+<code>C</code>
+<code>Dart</code>
+
+<br><br>
+
+<strong>Development</strong>
+
+<br><br>
+
+<code>React</code>
+<code>Next.js</code>
+<code>Flutter</code>
+<code>Node.js</code>
+<code>Tailwind</code>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Backend & Cloud
+<strong>Backend &amp; Cloud</strong>
 
-`Node.js` `Firebase` `PHP` `MySQL`
+<br><br>
 
-### Tools
+<code>Firebase</code>
+<code>REST APIs</code>
+<code>MySQL</code>
+<code>Vercel</code>
 
-`Git` `GitHub` `Vercel` `VS Code` `Linux`
+<br><br>
+
+<strong>Tools &amp; Core</strong>
+
+<br><br>
+
+<code>Git</code>
+<code>GitHub</code>
+<code>Linux</code>
+<code>DSA</code>
+<code>Embedded Systems</code>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 </tr>
