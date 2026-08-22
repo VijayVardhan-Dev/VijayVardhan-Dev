@@ -52,74 +52,15 @@ improving at DSA, and experimenting with AI.
 </table>
 
 <br>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/VijayVardhan-Dev/VijayVardhan-Dev/main/assets/skills-dashboard.svg"
+    width="100%"
+    alt="Skills and Technical Stack"
+  />
+</p>
 
-<table align="center" width="100%">
-<tr>
-<td>
-
-<h2>Skills</h2>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<strong>Languages</strong>
-
-<br><br>
-
-<code>Python</code>
-<code>Java</code>
-<code>JavaScript</code>
-<code>C</code>
-<code>Dart</code>
-
-<br><br>
-
-<strong>Development</strong>
-
-<br><br>
-
-<code>React</code>
-<code>Next.js</code>
-<code>Flutter</code>
-<code>Node.js</code>
-<code>Tailwind</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<strong>Backend &amp; Cloud</strong>
-
-<br><br>
-
-<code>Firebase</code>
-<code>REST APIs</code>
-<code>MySQL</code>
-<code>Vercel</code>
-
-<br><br>
-
-<strong>Tools &amp; Core</strong>
-
-<br><br>
-
-<code>Git</code>
-<code>GitHub</code>
-<code>Linux</code>
-<code>DSA</code>
-<code>Embedded Systems</code>
-
-</td>
-
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
+<br>
 ---
 
 ## LeetCode
