@@ -43,6 +43,7 @@ improving at DSA, and experimenting with AI.
 <img
   src="https://raw.githubusercontent.com/VijayVardhan-Dev/VijayVardhan-Dev/main/assets/ascii.png"
   width="100%"
+  height = "100%"
   alt="Vardhan Keerthi"
 />
 
@@ -61,7 +62,6 @@ improving at DSA, and experimenting with AI.
 </p>
 
 <br>
----
 
 ## LeetCode
 
