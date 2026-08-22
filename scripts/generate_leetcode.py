@@ -1,19 +1,21 @@
 import json
 import urllib.request
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 USERNAME = "Vardhan_Dev00"
-API_BASE = "https://leetcode-stats.tashif.codes"
+
+API_URL = (
+    f"https://leetcode-stats.tashif.codes/"
+    f"{USERNAME}/stats"
+)
 
 OUTPUT = Path("assets/leetcode-dashboard.svg")
 
 
-def fetch(endpoint):
-    url = f"{API_BASE}/{USERNAME}/{endpoint}"
-
+def fetch_stats():
     request = urllib.request.Request(
-        url,
+        API_URL,
         headers={
             "User-Agent": "Mozilla/5.0"
         }
@@ -23,74 +25,100 @@ def fetch(endpoint):
         return json.loads(response.read().decode())
 
 
-def esc(value):
-    return str(value).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-
-stats_response = fetch("stats")
-heatmap_response = fetch("heatmap")
-
-stats = stats_response["data"]
-heatmap = heatmap_response["data"]
-
-total_solved = stats["totalSolved"]
-easy = stats["byDifficulty"]["easy"]
-medium = stats["byDifficulty"]["medium"]
-hard = stats["byDifficulty"]["hard"]
-
-# ---------------------------------------------------------
-# Build last 12 months of activity
-# ---------------------------------------------------------
-
-activity = {}
-
-for item in heatmap.get("dailyContributions", []):
-    activity[item["date"]] = item.get("count", 0)
-
-
-today = datetime.now().date()
-
-# Start roughly 1 year ago.
-start_date = today - timedelta(days=364)
-
-# Align to Sunday so the grid looks clean.
-start_date -= timedelta(days=(start_date.weekday() + 1) % 7)
-
-
-def level(count):
+def get_level(count):
     if count == 0:
-        return "#161616"
-    if count <= 1:
+        return "#151515"
+    if count <= 2:
         return "#3A3A3A"
-    if count <= 3:
+    if count <= 5:
         return "#777777"
     return "#FFFFFF"
 
 
-# ---------------------------------------------------------
-# SVG
-# ---------------------------------------------------------
+# --------------------------------------------------
+# FETCH DATA
+# --------------------------------------------------
+
+data = fetch_stats()
+
+if data.get("status") != "success":
+    raise RuntimeError(f"LeetCode API error: {data}")
+
+
+total_solved = data["totalSolved"]
+easy = data["easySolved"]
+medium = data["mediumSolved"]
+hard = data["hardSolved"]
+acceptance = data["acceptanceRate"]
+
+submission_calendar = data["submissionCalendar"]
+
+
+# --------------------------------------------------
+# CONVERT UNIX TIMESTAMPS
+# --------------------------------------------------
+
+activity = {}
+
+for timestamp, count in submission_calendar.items():
+
+    date = datetime.fromtimestamp(
+        int(timestamp),
+        tz=timezone.utc
+    ).date()
+
+    activity[date] = count
+
+
+# --------------------------------------------------
+# DATE RANGE
+# --------------------------------------------------
+
+today = datetime.now(timezone.utc).date()
+
+start_date = today - timedelta(days=364)
+
+# Start on Sunday for a clean contribution-style grid.
+start_date -= timedelta(
+    days=(start_date.weekday() + 1) % 7
+)
+
+
+# --------------------------------------------------
+# SVG CONFIG
+# --------------------------------------------------
 
 WIDTH = 1200
 HEIGHT = 390
 
-svg = f'''<svg width="{WIDTH}" height="{HEIGHT}"
+CELL = 14
+GAP = 5
+
+svg = f'''<svg
+xmlns="http://www.w3.org/2000/svg"
+width="{WIDTH}"
+height="{HEIGHT}"
 viewBox="0 0 {WIDTH} {HEIGHT}"
 fill="none"
-xmlns="http://www.w3.org/2000/svg">
+>
 
-<rect width="1200" height="390" fill="#000000"/>
+<rect
+    width="{WIDTH}"
+    height="{HEIGHT}"
+    fill="#000000"
+/>
 
 <rect
     x="1"
     y="1"
-    width="1198"
-    height="388"
+    width="{WIDTH - 2}"
+    height="{HEIGHT - 2}"
     stroke="#333333"
     stroke-width="2"
 />
 
-<!-- Header -->
+
+<!-- HEADER -->
 
 <text
     x="42"
@@ -115,6 +143,7 @@ LEETCODE
 {today.year}
 </text>
 
+
 <line
     x1="42"
     y1="70"
@@ -123,75 +152,103 @@ LEETCODE
     stroke="#222222"
 />
 
-<!-- Statistics -->
 
-<text x="70" y="118"
-fill="#FFFFFF"
-font-family="monospace"
-font-size="28"
-text-anchor="middle">
+<!-- STATISTICS -->
+
+
+<text
+    x="70"
+    y="118"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="28"
+    text-anchor="middle"
+>
 {total_solved}
 </text>
 
-<text x="365" y="118"
-fill="#FFFFFF"
-font-family="monospace"
-font-size="28"
-text-anchor="middle">
+<text
+    x="365"
+    y="118"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="28"
+    text-anchor="middle"
+>
 {easy}
 </text>
 
-<text x="660" y="118"
-fill="#FFFFFF"
-font-family="monospace"
-font-size="28"
-text-anchor="middle">
+<text
+    x="660"
+    y="118"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="28"
+    text-anchor="middle"
+>
 {medium}
 </text>
 
-<text x="955" y="118"
-fill="#FFFFFF"
-font-family="monospace"
-font-size="28"
-text-anchor="middle">
+<text
+    x="955"
+    y="118"
+    fill="#FFFFFF"
+    font-family="monospace"
+    font-size="28"
+    text-anchor="middle"
+>
 {hard}
 </text>
 
-<text x="70" y="143"
-fill="#888888"
-font-family="monospace"
-font-size="12"
-text-anchor="middle"
-letter-spacing="1">
+
+<text
+    x="70"
+    y="143"
+    fill="#888888"
+    font-family="monospace"
+    font-size="12"
+    text-anchor="middle"
+    letter-spacing="1"
+>
 SOLVED
 </text>
 
-<text x="365" y="143"
-fill="#888888"
-font-family="monospace"
-font-size="12"
-text-anchor="middle"
-letter-spacing="1">
+<text
+    x="365"
+    y="143"
+    fill="#888888"
+    font-family="monospace"
+    font-size="12"
+    text-anchor="middle"
+    letter-spacing="1"
+>
 EASY
 </text>
 
-<text x="660" y="143"
-fill="#888888"
-font-family="monospace"
-font-size="12"
-text-anchor="middle"
-letter-spacing="1">
+<text
+    x="660"
+    y="143"
+    fill="#888888"
+    font-family="monospace"
+    font-size="12"
+    text-anchor="middle"
+    letter-spacing="1"
+>
 MEDIUM
 </text>
 
-<text x="955" y="143"
-fill="#888888"
-font-family="monospace"
-font-size="12"
-text-anchor="middle"
-letter-spacing="1">
+<text
+    x="955"
+    y="143"
+    fill="#888888"
+    font-family="monospace"
+    font-size="12"
+    text-anchor="middle"
+    letter-spacing="1"
+>
 HARD
 </text>
+
 
 <line
     x1="42"
@@ -201,7 +258,8 @@ HARD
     stroke="#222222"
 />
 
-<!-- Heatmap title -->
+
+<!-- SUBMISSION ACTIVITY -->
 
 <text
     x="42"
@@ -214,33 +272,32 @@ HARD
 SUBMISSION ACTIVITY
 </text>
 
+
 <g transform="translate(42 215)">
 '''
 
-# ---------------------------------------------------------
-# Heatmap
-# ---------------------------------------------------------
 
-CELL = 14
-GAP = 5
+# --------------------------------------------------
+# HEATMAP
+# --------------------------------------------------
 
 for week in range(53):
 
     for day in range(7):
 
-        current = start_date + timedelta(
-            days=week * 7 + day
+        current_date = start_date + timedelta(
+            days=(week * 7) + day
         )
 
-        if current > today:
+        if current_date > today:
             continue
 
-        date_string = current.isoformat()
-
-        count = activity.get(date_string, 0)
+        count = activity.get(current_date, 0)
 
         x = week * (CELL + GAP)
         y = day * (CELL + GAP)
+
+        fill = get_level(count)
 
         svg += f'''
 <rect
@@ -248,14 +305,16 @@ for week in range(53):
     y="{y}"
     width="{CELL}"
     height="{CELL}"
-    fill="{level(count)}"
+    fill="{fill}"
 />
 '''
 
-svg += '''
+
+svg += f'''
 </g>
 
-<!-- Legend -->
+
+<!-- LEGEND -->
 
 <text
     x="42"
@@ -267,10 +326,37 @@ svg += '''
 LESS
 </text>
 
-<rect x="78" y="330" width="13" height="13" fill="#161616"/>
-<rect x="98" y="330" width="13" height="13" fill="#3A3A3A"/>
-<rect x="118" y="330" width="13" height="13" fill="#777777"/>
-<rect x="138" y="330" width="13" height="13" fill="#FFFFFF"/>
+<rect
+    x="78"
+    y="330"
+    width="13"
+    height="13"
+    fill="#151515"
+/>
+
+<rect
+    x="98"
+    y="330"
+    width="13"
+    height="13"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="118"
+    y="330"
+    width="13"
+    height="13"
+    fill="#777777"
+/>
+
+<rect
+    x="138"
+    y="330"
+    width="13"
+    height="13"
+    fill="#FFFFFF"
+/>
 
 <text
     x="161"
@@ -282,7 +368,8 @@ LESS
 MORE
 </text>
 
-<!-- Footer -->
+
+<!-- FOOTER -->
 
 <line
     x1="42"
@@ -291,6 +378,7 @@ MORE
     y2="355"
     stroke="#222222"
 />
+
 
 <text
     x="600"
@@ -307,13 +395,32 @@ DATA STRUCTURES  ·  ALGORITHMS  ·  PROBLEM SOLVING
 </svg>
 '''
 
-OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-OUTPUT.write_text(svg, encoding="utf-8")
+
+# --------------------------------------------------
+# WRITE FILE
+# --------------------------------------------------
+
+OUTPUT.parent.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+OUTPUT.write_text(
+    svg,
+    encoding="utf-8"
+)
 
 print(
-    f"Updated LeetCode dashboard: "
-    f"{total_solved} solved | "
-    f"Easy {easy} | "
-    f"Medium {medium} | "
-    f"Hard {hard}"
+    f"""
+LeetCode dashboard updated.
+
+Username : {USERNAME}
+Solved   : {total_solved}
+Easy     : {easy}
+Medium   : {medium}
+Hard     : {hard}
+Accept.  : {acceptance}%
+
+Output   : {OUTPUT}
+"""
 )
