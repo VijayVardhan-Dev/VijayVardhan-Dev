@@ -68,7 +68,7 @@ LEETCODE
     font-size="28"
     text-anchor="middle"
 >
-75
+77
 </text>
 
 <text
@@ -79,7 +79,7 @@ LEETCODE
     font-size="28"
     text-anchor="middle"
 >
-46
+47
 </text>
 
 <text
@@ -90,7 +90,7 @@ LEETCODE
     font-size="28"
     text-anchor="middle"
 >
-29
+30
 </text>
 
 <text
@@ -2256,7 +2256,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2272,7 +2272,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2280,7 +2280,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2288,7 +2288,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
@@ -2296,7 +2296,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2304,7 +2304,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2312,7 +2312,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2328,7 +2328,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2336,7 +2336,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2344,7 +2344,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#151515"
 />
 
 <rect
@@ -2352,7 +2352,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2360,7 +2360,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2376,7 +2376,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2464,67 +2464,11 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
     x="760"
-    y="114"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="779"
-    y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="779"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="779"
-    y="57"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="779"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="779"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
     y="114"
     width="14"
     height="14"
@@ -2532,7 +2476,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="0"
     width="14"
     height="14"
@@ -2540,7 +2484,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="19"
     width="14"
     height="14"
@@ -2548,7 +2492,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="38"
     width="14"
     height="14"
@@ -2556,7 +2500,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="57"
     width="14"
     height="14"
@@ -2564,7 +2508,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="76"
     width="14"
     height="14"
@@ -2572,7 +2516,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="95"
     width="14"
     height="14"
@@ -2580,7 +2524,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="798"
+    x="779"
     y="114"
     width="14"
     height="14"
@@ -2588,7 +2532,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="817"
+    x="798"
     y="0"
     width="14"
     height="14"
@@ -2596,7 +2540,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="817"
+    x="798"
     y="19"
     width="14"
     height="14"
@@ -2604,6 +2548,62 @@ SUBMISSION ACTIVITY
 />
 
 <rect
+    x="798"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="798"
+    y="57"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="798"
+    y="76"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="798"
+    y="95"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="798"
+    y="114"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="817"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="817"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
     x="817"
     y="38"
     width="14"
@@ -2632,7 +2632,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2664,20 +2664,12 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
     x="836"
     y="57"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="836"
-    y="76"
     width="14"
     height="14"
     fill="#151515"
@@ -2685,10 +2677,18 @@ SUBMISSION ACTIVITY
 
 <rect
     x="836"
+    y="76"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="836"
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2720,7 +2720,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2728,20 +2728,12 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
     x="855"
     y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="855"
-    y="95"
     width="14"
     height="14"
     fill="#151515"
@@ -2749,6 +2741,14 @@ SUBMISSION ACTIVITY
 
 <rect
     x="855"
+    y="95"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="855"
     y="114"
     width="14"
     height="14"
@@ -2768,7 +2768,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2784,7 +2784,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#151515"
 />
 
 <rect
@@ -2792,7 +2792,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2848,7 +2848,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2896,67 +2896,11 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="912"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="912"
-    y="95"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="912"
-    y="114"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="931"
-    y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="931"
-    y="19"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="931"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="931"
-    y="57"
-    width="14"
-    height="14"
     fill="#3A3A3A"
 />
 
 <rect
-    x="931"
+    x="912"
     y="76"
     width="14"
     height="14"
@@ -2964,11 +2908,67 @@ SUBMISSION ACTIVITY
 />
 
 <rect
+    x="912"
+    y="95"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="912"
+    y="114"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="931"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="931"
+    y="19"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="931"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="931"
+    y="57"
+    width="14"
+    height="14"
+    fill="#FFFFFF"
+/>
+
+<rect
+    x="931"
+    y="76"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
     x="931"
     y="95"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#FFFFFF"
 />
 
 <rect
@@ -2976,7 +2976,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#FFFFFF"
 />
 
 <rect
@@ -2984,7 +2984,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#FFFFFF"
 />
 
 <rect
@@ -2992,7 +2992,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
@@ -3000,7 +3000,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -3008,7 +3008,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#FFFFFF"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -3016,7 +3016,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
@@ -3024,7 +3024,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#FFFFFF"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -3032,7 +3032,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#FFFFFF"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -3040,7 +3040,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#FFFFFF"
+    fill="#777777"
 />
 
 <rect
@@ -3056,7 +3056,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#777777"
 />
 
 <rect
@@ -3064,7 +3064,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#777777"
 />
 
 <rect
@@ -3080,7 +3080,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#777777"
 />
 
 <rect
@@ -3088,7 +3088,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#777777"
 />
 
 <rect
@@ -3096,55 +3096,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="19"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="38"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="57"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="76"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="95"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="988"
-    y="114"
-    width="14"
-    height="14"
-    fill="#777777"
+    fill="#3A3A3A"
 />
 
 </g>
