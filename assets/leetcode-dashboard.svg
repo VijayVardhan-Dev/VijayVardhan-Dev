@@ -68,7 +68,7 @@ LEETCODE
     font-size="28"
     text-anchor="middle"
 >
-82
+83
 </text>
 
 <text
@@ -79,7 +79,7 @@ LEETCODE
     font-size="28"
     text-anchor="middle"
 >
-49
+50
 </text>
 
 <text
@@ -3121,6 +3121,14 @@ SUBMISSION ACTIVITY
     width="14"
     height="14"
     fill="#777777"
+/>
+
+<rect
+    x="988"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
 />
 
 </g>
