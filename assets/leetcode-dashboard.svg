@@ -1584,7 +1584,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1600,7 +1600,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1608,7 +1608,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1616,7 +1616,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
@@ -1624,7 +1624,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1632,7 +1632,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1640,7 +1640,7 @@ SUBMISSION ACTIVITY
     y="0"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -1656,7 +1656,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -1664,7 +1664,7 @@ SUBMISSION ACTIVITY
     y="57"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -1672,7 +1672,7 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#151515"
 />
 
 <rect
@@ -1680,7 +1680,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -1688,7 +1688,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -1704,7 +1704,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1792,7 +1792,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -1800,67 +1800,11 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="551"
-    y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="551"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="551"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="551"
-    y="57"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="551"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="551"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="551"
-    y="114"
-    width="14"
-    height="14"
     fill="#777777"
 />
 
 <rect
-    x="570"
+    x="551"
     y="0"
     width="14"
     height="14"
@@ -1868,7 +1812,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="19"
     width="14"
     height="14"
@@ -1876,7 +1820,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="38"
     width="14"
     height="14"
@@ -1884,7 +1828,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="57"
     width="14"
     height="14"
@@ -1892,7 +1836,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="76"
     width="14"
     height="14"
@@ -1900,7 +1844,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="95"
     width="14"
     height="14"
@@ -1908,7 +1852,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="570"
+    x="551"
     y="114"
     width="14"
     height="14"
@@ -1916,7 +1860,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="0"
     width="14"
     height="14"
@@ -1924,7 +1868,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="19"
     width="14"
     height="14"
@@ -1932,7 +1876,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="38"
     width="14"
     height="14"
@@ -1940,7 +1884,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="57"
     width="14"
     height="14"
@@ -1948,7 +1892,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="76"
     width="14"
     height="14"
@@ -1956,7 +1900,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="589"
+    x="570"
     y="95"
     width="14"
     height="14"
@@ -1964,6 +1908,62 @@ SUBMISSION ACTIVITY
 />
 
 <rect
+    x="570"
+    y="114"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="589"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="589"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="589"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="589"
+    y="57"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="589"
+    y="76"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="589"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
     x="589"
     y="114"
     width="14"
@@ -1992,7 +1992,7 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2016,7 +2016,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2048,67 +2048,11 @@ SUBMISSION ACTIVITY
     y="38"
     width="14"
     height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="627"
-    y="57"
-    width="14"
-    height="14"
     fill="#151515"
 />
 
 <rect
     x="627"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="627"
-    y="95"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="627"
-    y="114"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="646"
-    y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="646"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="646"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="646"
     y="57"
     width="14"
     height="14"
@@ -2116,11 +2060,67 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="646"
+    x="627"
     y="76"
     width="14"
     height="14"
     fill="#151515"
+/>
+
+<rect
+    x="627"
+    y="95"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="627"
+    y="114"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="646"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="646"
+    y="19"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="646"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="646"
+    y="57"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="646"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -2176,67 +2176,11 @@ SUBMISSION ACTIVITY
     y="76"
     width="14"
     height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="665"
-    y="95"
-    width="14"
-    height="14"
     fill="#151515"
 />
 
 <rect
     x="665"
-    y="114"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
-    y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
-    y="19"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
-    y="57"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="684"
     y="95"
     width="14"
     height="14"
@@ -2244,7 +2188,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="684"
+    x="665"
     y="114"
     width="14"
     height="14"
@@ -2252,7 +2196,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="703"
+    x="684"
     y="0"
     width="14"
     height="14"
@@ -2260,7 +2204,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="703"
+    x="684"
     y="19"
     width="14"
     height="14"
@@ -2268,7 +2212,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="703"
+    x="684"
     y="38"
     width="14"
     height="14"
@@ -2276,7 +2220,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="703"
+    x="684"
     y="57"
     width="14"
     height="14"
@@ -2284,7 +2228,7 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="703"
+    x="684"
     y="76"
     width="14"
     height="14"
@@ -2292,11 +2236,67 @@ SUBMISSION ACTIVITY
 />
 
 <rect
+    x="684"
+    y="95"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="684"
+    y="114"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="703"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="703"
+    y="19"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="703"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="703"
+    y="57"
+    width="14"
+    height="14"
+    fill="#FFFFFF"
+/>
+
+<rect
+    x="703"
+    y="76"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
     x="703"
     y="95"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#FFFFFF"
 />
 
 <rect
@@ -2304,36 +2304,12 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#FFFFFF"
 />
 
 <rect
     x="722"
     y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="722"
-    y="19"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="722"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="722"
-    y="57"
     width="14"
     height="14"
     fill="#FFFFFF"
@@ -2341,6 +2317,422 @@ SUBMISSION ACTIVITY
 
 <rect
     x="722"
+    y="19"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="722"
+    y="38"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="722"
+    y="57"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="722"
+    y="76"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="722"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="722"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="741"
+    y="0"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="19"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="38"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="57"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="76"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="95"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="741"
+    y="114"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="760"
+    y="0"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="760"
+    y="19"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="760"
+    y="38"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="760"
+    y="57"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="760"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="760"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="760"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="779"
+    y="0"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="779"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="779"
+    y="38"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="779"
+    y="57"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="779"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="779"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="779"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="798"
+    y="0"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="798"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="798"
+    y="38"
+    width="14"
+    height="14"
+    fill="#FFFFFF"
+/>
+
+<rect
+    x="798"
+    y="57"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="798"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="798"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="798"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="0"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="38"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="57"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="817"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="0"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="38"
+    width="14"
+    height="14"
+    fill="#777777"
+/>
+
+<rect
+    x="836"
+    y="57"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="76"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="95"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="836"
+    y="114"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="855"
+    y="0"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="855"
+    y="19"
+    width="14"
+    height="14"
+    fill="#3A3A3A"
+/>
+
+<rect
+    x="855"
+    y="38"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="855"
+    y="57"
+    width="14"
+    height="14"
+    fill="#151515"
+/>
+
+<rect
+    x="855"
     y="76"
     width="14"
     height="14"
@@ -2348,403 +2740,11 @@ SUBMISSION ACTIVITY
 />
 
 <rect
-    x="722"
-    y="95"
-    width="14"
-    height="14"
-    fill="#FFFFFF"
-/>
-
-<rect
-    x="722"
-    y="114"
-    width="14"
-    height="14"
-    fill="#FFFFFF"
-/>
-
-<rect
-    x="741"
-    y="0"
-    width="14"
-    height="14"
-    fill="#FFFFFF"
-/>
-
-<rect
-    x="741"
-    y="19"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="741"
-    y="38"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="741"
-    y="57"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="741"
-    y="76"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="741"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="741"
-    y="114"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="760"
-    y="0"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="19"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="38"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="57"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="76"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="95"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="760"
-    y="114"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="779"
-    y="0"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
-    y="19"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="779"
-    y="38"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
-    y="57"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="779"
-    y="76"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="779"
-    y="114"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="798"
-    y="0"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="798"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="798"
-    y="38"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="798"
-    y="57"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="798"
-    y="76"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="798"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="798"
-    y="114"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="817"
-    y="0"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="817"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="817"
-    y="38"
-    width="14"
-    height="14"
-    fill="#FFFFFF"
-/>
-
-<rect
-    x="817"
-    y="57"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="817"
-    y="76"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="817"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="817"
-    y="114"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="0"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="38"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="57"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="76"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="95"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="836"
-    y="114"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="855"
-    y="0"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="855"
-    y="19"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="855"
-    y="38"
-    width="14"
-    height="14"
-    fill="#777777"
-/>
-
-<rect
-    x="855"
-    y="57"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
-    x="855"
-    y="76"
-    width="14"
-    height="14"
-    fill="#3A3A3A"
-/>
-
-<rect
     x="855"
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2752,7 +2752,7 @@ SUBMISSION ACTIVITY
     y="114"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2768,7 +2768,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -2824,7 +2824,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#777777"
 />
 
 <rect
@@ -2880,7 +2880,7 @@ SUBMISSION ACTIVITY
     y="19"
     width="14"
     height="14"
-    fill="#777777"
+    fill="#151515"
 />
 
 <rect
@@ -2968,7 +2968,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#151515"
+    fill="#3A3A3A"
 />
 
 <rect
@@ -3024,7 +3024,7 @@ SUBMISSION ACTIVITY
     y="95"
     width="14"
     height="14"
-    fill="#3A3A3A"
+    fill="#151515"
 />
 
 <rect
@@ -3094,54 +3094,6 @@ SUBMISSION ACTIVITY
 <rect
     x="988"
     y="0"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="19"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="38"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="57"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="76"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="95"
-    width="14"
-    height="14"
-    fill="#151515"
-/>
-
-<rect
-    x="988"
-    y="114"
     width="14"
     height="14"
     fill="#151515"
